@@ -5,10 +5,12 @@
 	<key>addToMenu</key>
 	<array>
 		<dict>
+			<key>nestInSubmenus</key>
+			<false/>
 			<key>path</key>
 			<string>tdCharsetsSwitcher.py</string>
 			<key>preferredName</key>
-			<string>CharacterSet Switcher</string>
+			<string>Charsets Switcher</string>
 			<key>shortKey</key>
 			<string></string>
 		</dict>
@@ -26,12 +28,12 @@
 	<key>name</key>
 	<string>CharacterSet Switcher</string>
 	<key>requiresVersionMajor</key>
-	<string>1</string>
+	<string>3</string>
 	<key>requiresVersionMinor</key>
-	<string>5</string>
+	<string>4</string>
 	<key>timeStamp</key>
-	<real>1406814504.561681</real>
+	<real>1610267989.7424619</real>
 	<key>version</key>
-	<string>0.1</string>
+	<string>1.0</string>
 </dict>
 </plist>
